@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.kpdigital.online
+USER_HOST: user.kpdigital.online
+SHIPPING_HOST: shipping.kpdigital.online
+CART_HOST: cart.kpdigital.online
+PAYMENT_HOST: payment.kpdigital.online
